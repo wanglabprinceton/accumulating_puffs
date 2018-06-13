@@ -1,7 +1,7 @@
-This repository contains the code used to run the accumulating puffs experiment.
+This repository contains the code and data for the accumulating puffs experiment.
 
 Ben Deverett
 
-2015-2017
+2015-2018
 
 deverett [at] princeton [dot] edu

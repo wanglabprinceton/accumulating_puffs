@@ -1,0 +1,1 @@
+The figure data are stored in numpy (.npy) files, embedded in dictionaries with keys corresponding to the figure panels in the figures. Data are labelled as relevant to each figure using further nested dictionaries. For further information, contact deverett[at]princeton[dot]edu.
